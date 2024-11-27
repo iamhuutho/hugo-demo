@@ -1,8 +1,6 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Contacts on Personal Site</title><link>https://iamhuutho.github.io/hugo-demo/en/contacts/</link><description>Recent content in Contacts on Personal Site</description><generator>Hugo</generator><language>en-US</language><lastBuildDate>Wed, 27 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://iamhuutho.github.io/hugo-demo/en/contacts/index.xml" rel="self" type="application/rss+xml"/><item><title>Contact</title><link>https://iamhuutho.github.io/hugo-demo/en/contacts/contact/</link><pubDate>Wed, 27 Nov 2024 00:00:00 +0000</pubDate><guid>https://iamhuutho.github.io/hugo-demo/en/contacts/contact/</guid><description>&lt;h2 class="heading" id="get-in-touch">
- Get in Touch&lt;span class="heading__anchor"> &lt;a href="#get-in-touch">#&lt;/a>&lt;/span>
-&lt;/h2>&lt;h3 class="heading" id="contact">
- Contact&lt;span class="heading__anchor"> &lt;a href="#contact">#&lt;/a>&lt;/span>
-&lt;/h3>&lt;p>I’d love to hear from you! Whether you want to discuss a project, have questions, or just want to say hello, feel free to reach out via any of the following methods:&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Contacts on Personal Site</title><link>https://iamhuutho.github.io/hugo-demo/en/contacts/</link><description>Recent content in Contacts on Personal Site</description><generator>Hugo</generator><language>en-US</language><lastBuildDate>Wed, 27 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://iamhuutho.github.io/hugo-demo/en/contacts/index.xml" rel="self" type="application/rss+xml"/><item><title>Contact</title><link>https://iamhuutho.github.io/hugo-demo/en/contacts/contact/</link><pubDate>Wed, 27 Nov 2024 00:00:00 +0000</pubDate><guid>https://iamhuutho.github.io/hugo-demo/en/contacts/contact/</guid><description>&lt;h2 id="get-in-touch">Get in Touch&lt;/h2>
+&lt;h3 id="contact">Contact&lt;/h3>
+&lt;p>I’d love to hear from you! Whether you want to discuss a project, have questions, or just want to say hello, feel free to reach out via any of the following methods:&lt;/p>
 &lt;ul>
 &lt;li>&lt;strong>Email&lt;/strong>: &lt;a href="mailto:youremail@example.com">youremail@example.com&lt;/a>&lt;/li>
 &lt;li>&lt;strong>LinkedIn&lt;/strong>: &lt;a href="https://linkedin.com/in/yourprofile">yourlinkedinprofile&lt;/a>&lt;/li>
@@ -10,8 +8,7 @@
 &lt;/ul>
 &lt;p>I look forward to connecting with you!&lt;/p>
 &lt;hr>
-&lt;h3 class="heading" id="address">
- Address&lt;span class="heading__anchor"> &lt;a href="#address">#&lt;/a>&lt;/span>
-&lt;/h3>&lt;ul>
+&lt;h3 id="address">Address&lt;/h3>
+&lt;ul>
 &lt;li>123 Your Street, Your City, Country&lt;/li>
 &lt;/ul></description></item></channel></rss>
