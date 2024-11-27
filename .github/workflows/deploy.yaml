@@ -24,11 +24,11 @@ jobs:
       - name: Build the Hugo site
         run: hugo --minify  # Builds the site into the "public/" directory
 
-      # Step 4: Deploy to GitHub Pages
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}  # Automatically provided by GitHub
+          github_token: ${{ secrets.GH_TOKEN }}  # Use the PAT secret instead of GITHUB_TOKEN
           publish_dir: ./public  # Path to the generated site folder (Hugo's default output folder)
           branch: main  # Deploy to the 'main' branch
           target_branch: main  # Set target branch to 'main' (this is optional)
+
