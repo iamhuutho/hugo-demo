@@ -1,19 +1,17 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Contacts on Personal Site</title>
-    <link>http://localhost:55686/en/contacts/</link>
-    <description>Recent content in Contacts on Personal Site</description>
-    <generator>Hugo</generator>
-    <language>en-US</language>
-    <lastBuildDate>Wed, 27 Nov 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:55686/en/contacts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Contact</title>
-      <link>http://localhost:55686/en/contacts/contact/</link>
-      <pubDate>Wed, 27 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55686/en/contacts/contact/</guid>
-      <description>&lt;h2 class=&#34;heading&#34; id=&#34;get-in-touch&#34;&gt;&#xA;  Get in Touch&lt;span class=&#34;heading__anchor&#34;&gt; &lt;a href=&#34;#get-in-touch&#34;&gt;#&lt;/a&gt;&lt;/span&gt;&#xA;&lt;/h2&gt;&lt;h3 class=&#34;heading&#34; id=&#34;contact&#34;&gt;&#xA;  Contact&lt;span class=&#34;heading__anchor&#34;&gt; &lt;a href=&#34;#contact&#34;&gt;#&lt;/a&gt;&lt;/span&gt;&#xA;&lt;/h3&gt;&lt;p&gt;I’d love to hear from you! Whether you want to discuss a project, have questions, or just want to say hello, feel free to reach out via any of the following methods:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Email&lt;/strong&gt;: &lt;a href=&#34;mailto:youremail@example.com&#34;&gt;youremail@example.com&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;LinkedIn&lt;/strong&gt;: &lt;a href=&#34;https://linkedin.com/in/yourprofile&#34;&gt;yourlinkedinprofile&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;GitHub&lt;/strong&gt;: &lt;a href=&#34;https://github.com/yourusername&#34;&gt;yourgithubprofile&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;I look forward to connecting with you!&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 class=&#34;heading&#34; id=&#34;address&#34;&gt;&#xA;  Address&lt;span class=&#34;heading__anchor&#34;&gt; &lt;a href=&#34;#address&#34;&gt;#&lt;/a&gt;&lt;/span&gt;&#xA;&lt;/h3&gt;&lt;ul&gt;&#xA;&lt;li&gt;123 Your Street, Your City, Country&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Contacts on Personal Site</title><link>https://iamhuutho.github.io/hugo-demo/en/contacts/</link><description>Recent content in Contacts on Personal Site</description><generator>Hugo</generator><language>en-US</language><lastBuildDate>Wed, 27 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://iamhuutho.github.io/hugo-demo/en/contacts/index.xml" rel="self" type="application/rss+xml"/><item><title>Contact</title><link>https://iamhuutho.github.io/hugo-demo/en/contacts/contact/</link><pubDate>Wed, 27 Nov 2024 00:00:00 +0000</pubDate><guid>https://iamhuutho.github.io/hugo-demo/en/contacts/contact/</guid><description>&lt;h2 class="heading" id="get-in-touch">
+ Get in Touch&lt;span class="heading__anchor"> &lt;a href="#get-in-touch">#&lt;/a>&lt;/span>
+&lt;/h2>&lt;h3 class="heading" id="contact">
+ Contact&lt;span class="heading__anchor"> &lt;a href="#contact">#&lt;/a>&lt;/span>
+&lt;/h3>&lt;p>I’d love to hear from you! Whether you want to discuss a project, have questions, or just want to say hello, feel free to reach out via any of the following methods:&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Email&lt;/strong>: &lt;a href="mailto:youremail@example.com">youremail@example.com&lt;/a>&lt;/li>
+&lt;li>&lt;strong>LinkedIn&lt;/strong>: &lt;a href="https://linkedin.com/in/yourprofile">yourlinkedinprofile&lt;/a>&lt;/li>
+&lt;li>&lt;strong>GitHub&lt;/strong>: &lt;a href="https://github.com/yourusername">yourgithubprofile&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>I look forward to connecting with you!&lt;/p>
+&lt;hr>
+&lt;h3 class="heading" id="address">
+ Address&lt;span class="heading__anchor"> &lt;a href="#address">#&lt;/a>&lt;/span>
+&lt;/h3>&lt;ul>
+&lt;li>123 Your Street, Your City, Country&lt;/li>
+&lt;/ul></description></item></channel></rss>

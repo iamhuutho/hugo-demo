@@ -1,26 +1,5 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Posts on Trang Cá Nhân</title>
-    <link>http://localhost:55686/vi/posts/</link>
-    <description>Recent content in Posts on Trang Cá Nhân</description>
-    <generator>Hugo</generator>
-    <language>vi</language>
-    <lastBuildDate>Wed, 27 Nov 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:55686/vi/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Chào Mừng</title>
-      <link>http://localhost:55686/vi/posts/welcome/</link>
-      <pubDate>Wed, 27 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55686/vi/posts/welcome/</guid>
-      <description>&lt;p&gt;Chào mừng bạn đến với trang web cá nhân của tôi! Tại đây, bạn sẽ tìm thấy thông tin về tôi, công việc của tôi, và cách để liên lạc.&lt;/p&gt;&#xA;&lt;p&gt;Hãy thoải mái khám phá các trang để tìm hiểu thêm về kỹ năng, dự án của tôi, và cách chúng ta có thể hợp tác!&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;</description>
-    </item>
-    <item>
-      <title>Thành tích</title>
-      <link>http://localhost:55686/vi/posts/achievement/</link>
-      <pubDate>Wed, 27 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55686/vi/posts/achievement/</guid>
-      <description>&lt;p&gt;Một số thành tích của tôi bao gồm&#xA;&amp;hellip;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Trang Cá Nhân</title><link>https://iamhuutho.github.io/hugo-demo/vi/posts/</link><description>Recent content in Posts on Trang Cá Nhân</description><generator>Hugo</generator><language>vi</language><lastBuildDate>Wed, 27 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://iamhuutho.github.io/hugo-demo/vi/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Chào Mừng</title><link>https://iamhuutho.github.io/hugo-demo/vi/posts/welcome/</link><pubDate>Wed, 27 Nov 2024 00:00:00 +0000</pubDate><guid>https://iamhuutho.github.io/hugo-demo/vi/posts/welcome/</guid><description>&lt;p>Chào mừng bạn đến với trang web cá nhân của tôi! Tại đây, bạn sẽ tìm thấy thông tin về tôi, công việc của tôi, và cách để liên lạc.&lt;/p>
+&lt;p>Hãy thoải mái khám phá các trang để tìm hiểu thêm về kỹ năng, dự án của tôi, và cách chúng ta có thể hợp tác!&lt;/p>
+&lt;hr></description></item><item><title>Thành tích</title><link>https://iamhuutho.github.io/hugo-demo/vi/posts/achievement/</link><pubDate>Wed, 27 Nov 2024 00:00:00 +0000</pubDate><guid>https://iamhuutho.github.io/hugo-demo/vi/posts/achievement/</guid><description>&lt;p>Một số thành tích của tôi bao gồm
+&amp;hellip;&lt;/p>
+&lt;hr></description></item></channel></rss>

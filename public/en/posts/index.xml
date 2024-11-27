@@ -1,26 +1,5 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Posts on Personal Site</title>
-    <link>http://localhost:1313/en/posts/</link>
-    <description>Recent content in Posts on Personal Site</description>
-    <generator>Hugo</generator>
-    <language>en-US</language>
-    <lastBuildDate>Wed, 27 Nov 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/en/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Achievements</title>
-      <link>http://localhost:1313/en/posts/achievement/</link>
-      <pubDate>Wed, 27 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/posts/achievement/</guid>
-      <description>&lt;p&gt;A little bit of my achievement&#xA;&amp;hellip;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;</description>
-    </item>
-    <item>
-      <title>Welcome</title>
-      <link>http://localhost:1313/en/posts/welcome/</link>
-      <pubDate>Wed, 27 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/posts/welcome/</guid>
-      <description>&lt;p&gt;Welcome to my personal website! Here, you&amp;rsquo;ll find information about me, my work, and how to get in touch.&lt;/p&gt;&#xA;&lt;p&gt;Feel free to browse through the pages to learn more about my skills, projects, and how we can collaborate!&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Personal Site</title><link>https://iamhuutho.github.io/hugo-demo/en/posts/</link><description>Recent content in Posts on Personal Site</description><generator>Hugo</generator><language>en-US</language><lastBuildDate>Wed, 27 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://iamhuutho.github.io/hugo-demo/en/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Achievements</title><link>https://iamhuutho.github.io/hugo-demo/en/posts/achievement/</link><pubDate>Wed, 27 Nov 2024 00:00:00 +0000</pubDate><guid>https://iamhuutho.github.io/hugo-demo/en/posts/achievement/</guid><description>&lt;p>A little bit of my achievement
+&amp;hellip;&lt;/p>
+&lt;hr></description></item><item><title>Welcome</title><link>https://iamhuutho.github.io/hugo-demo/en/posts/welcome/</link><pubDate>Wed, 27 Nov 2024 00:00:00 +0000</pubDate><guid>https://iamhuutho.github.io/hugo-demo/en/posts/welcome/</guid><description>&lt;p>Welcome to my personal website! Here, you&amp;rsquo;ll find information about me, my work, and how to get in touch.&lt;/p>
+&lt;p>Feel free to browse through the pages to learn more about my skills, projects, and how we can collaborate!&lt;/p>
+&lt;hr></description></item></channel></rss>

@@ -1,40 +1,36 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Personal Site</title>
-    <link>http://localhost:1313/en/</link>
-    <description>Recent content on Personal Site</description>
-    <generator>Hugo</generator>
-    <language>en-US</language>
-    <lastBuildDate>Wed, 27 Nov 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/en/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Achievements</title>
-      <link>http://localhost:1313/en/posts/achievement/</link>
-      <pubDate>Wed, 27 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/posts/achievement/</guid>
-      <description>&lt;p&gt;A little bit of my achievement&#xA;&amp;hellip;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;</description>
-    </item>
-    <item>
-      <title>Welcome</title>
-      <link>http://localhost:1313/en/posts/welcome/</link>
-      <pubDate>Wed, 27 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/posts/welcome/</guid>
-      <description>&lt;p&gt;Welcome to my personal website! Here, you&amp;rsquo;ll find information about me, my work, and how to get in touch.&lt;/p&gt;&#xA;&lt;p&gt;Feel free to browse through the pages to learn more about my skills, projects, and how we can collaborate!&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;</description>
-    </item>
-    <item>
-      <title>About Me</title>
-      <link>http://localhost:1313/en/about/</link>
-      <pubDate>Wed, 27 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/about/</guid>
-      <description>&lt;h2 class=&#34;heading&#34; id=&#34;about-me&#34;&gt;&#xA;  About Me&lt;span class=&#34;heading__anchor&#34;&gt; &lt;a href=&#34;#about-me&#34;&gt;#&lt;/a&gt;&lt;/span&gt;&#xA;&lt;/h2&gt;&lt;h3 class=&#34;heading&#34; id=&#34;description&#34;&gt;&#xA;  Description&lt;span class=&#34;heading__anchor&#34;&gt; &lt;a href=&#34;#description&#34;&gt;#&lt;/a&gt;&lt;/span&gt;&#xA;&lt;/h3&gt;&lt;p&gt;Hello! I&amp;rsquo;m Tho Nguyen, a passionate web developer with a love for building beautiful, responsive websites. I specialize in frontend technologies like HTML, CSS, and JavaScript, as well as backend development with tools like Node.js and Go.&lt;/p&gt;&#xA;&lt;p&gt;In my free time, I enjoy exploring new technologies, learning languages, and traveling to new places. Welcome to my personal website!&lt;/p&gt;&#xA;&lt;p&gt;Feel free to reach out if you&amp;rsquo;d like to collaborate or just have a chat about tech, design, or anything else!&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 class=&#34;heading&#34; id=&#34;skills&#34;&gt;&#xA;  Skills&lt;span class=&#34;heading__anchor&#34;&gt; &lt;a href=&#34;#skills&#34;&gt;#&lt;/a&gt;&lt;/span&gt;&#xA;&lt;/h3&gt;&lt;ul&gt;&#xA;&lt;li&gt;HTML/CSS/JavaScript&lt;/li&gt;&#xA;&lt;li&gt;React, Vue.js&lt;/li&gt;&#xA;&lt;li&gt;Node.js, Go&lt;/li&gt;&#xA;&lt;li&gt;UX/UI Design&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;</description>
-    </item>
-    <item>
-      <title>Contact</title>
-      <link>http://localhost:1313/en/contacts/contact/</link>
-      <pubDate>Wed, 27 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/contacts/contact/</guid>
-      <description>&lt;h2 class=&#34;heading&#34; id=&#34;get-in-touch&#34;&gt;&#xA;  Get in Touch&lt;span class=&#34;heading__anchor&#34;&gt; &lt;a href=&#34;#get-in-touch&#34;&gt;#&lt;/a&gt;&lt;/span&gt;&#xA;&lt;/h2&gt;&lt;h3 class=&#34;heading&#34; id=&#34;contact&#34;&gt;&#xA;  Contact&lt;span class=&#34;heading__anchor&#34;&gt; &lt;a href=&#34;#contact&#34;&gt;#&lt;/a&gt;&lt;/span&gt;&#xA;&lt;/h3&gt;&lt;p&gt;I’d love to hear from you! Whether you want to discuss a project, have questions, or just want to say hello, feel free to reach out via any of the following methods:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Email&lt;/strong&gt;: &lt;a href=&#34;mailto:youremail@example.com&#34;&gt;youremail@example.com&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;LinkedIn&lt;/strong&gt;: &lt;a href=&#34;https://linkedin.com/in/yourprofile&#34;&gt;yourlinkedinprofile&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;GitHub&lt;/strong&gt;: &lt;a href=&#34;https://github.com/yourusername&#34;&gt;yourgithubprofile&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;I look forward to connecting with you!&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 class=&#34;heading&#34; id=&#34;address&#34;&gt;&#xA;  Address&lt;span class=&#34;heading__anchor&#34;&gt; &lt;a href=&#34;#address&#34;&gt;#&lt;/a&gt;&lt;/span&gt;&#xA;&lt;/h3&gt;&lt;ul&gt;&#xA;&lt;li&gt;123 Your Street, Your City, Country&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Personal Site</title><link>https://iamhuutho.github.io/hugo-demo/en/</link><description>Recent content on Personal Site</description><generator>Hugo</generator><language>en-US</language><lastBuildDate>Wed, 27 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://iamhuutho.github.io/hugo-demo/en/index.xml" rel="self" type="application/rss+xml"/><item><title>Achievements</title><link>https://iamhuutho.github.io/hugo-demo/en/posts/achievement/</link><pubDate>Wed, 27 Nov 2024 00:00:00 +0000</pubDate><guid>https://iamhuutho.github.io/hugo-demo/en/posts/achievement/</guid><description>&lt;p>A little bit of my achievement
+&amp;hellip;&lt;/p>
+&lt;hr></description></item><item><title>Welcome</title><link>https://iamhuutho.github.io/hugo-demo/en/posts/welcome/</link><pubDate>Wed, 27 Nov 2024 00:00:00 +0000</pubDate><guid>https://iamhuutho.github.io/hugo-demo/en/posts/welcome/</guid><description>&lt;p>Welcome to my personal website! Here, you&amp;rsquo;ll find information about me, my work, and how to get in touch.&lt;/p>
+&lt;p>Feel free to browse through the pages to learn more about my skills, projects, and how we can collaborate!&lt;/p>
+&lt;hr></description></item><item><title>About Me</title><link>https://iamhuutho.github.io/hugo-demo/en/about/</link><pubDate>Wed, 27 Nov 2024 00:00:00 +0000</pubDate><guid>https://iamhuutho.github.io/hugo-demo/en/about/</guid><description>&lt;h2 class="heading" id="about-me">
+ About Me&lt;span class="heading__anchor"> &lt;a href="#about-me">#&lt;/a>&lt;/span>
+&lt;/h2>&lt;h3 class="heading" id="description">
+ Description&lt;span class="heading__anchor"> &lt;a href="#description">#&lt;/a>&lt;/span>
+&lt;/h3>&lt;p>Hello! I&amp;rsquo;m Tho Nguyen, a passionate web developer with a love for building beautiful, responsive websites. I specialize in frontend technologies like HTML, CSS, and JavaScript, as well as backend development with tools like Node.js and Go.&lt;/p>
+&lt;p>In my free time, I enjoy exploring new technologies, learning languages, and traveling to new places. Welcome to my personal website!&lt;/p>
+&lt;p>Feel free to reach out if you&amp;rsquo;d like to collaborate or just have a chat about tech, design, or anything else!&lt;/p>
+&lt;hr>
+&lt;h3 class="heading" id="skills">
+ Skills&lt;span class="heading__anchor"> &lt;a href="#skills">#&lt;/a>&lt;/span>
+&lt;/h3>&lt;ul>
+&lt;li>HTML/CSS/JavaScript&lt;/li>
+&lt;li>React, Vue.js&lt;/li>
+&lt;li>Node.js, Go&lt;/li>
+&lt;li>UX/UI Design&lt;/li>
+&lt;/ul></description></item><item><title>Contact</title><link>https://iamhuutho.github.io/hugo-demo/en/contacts/contact/</link><pubDate>Wed, 27 Nov 2024 00:00:00 +0000</pubDate><guid>https://iamhuutho.github.io/hugo-demo/en/contacts/contact/</guid><description>&lt;h2 class="heading" id="get-in-touch">
+ Get in Touch&lt;span class="heading__anchor"> &lt;a href="#get-in-touch">#&lt;/a>&lt;/span>
+&lt;/h2>&lt;h3 class="heading" id="contact">
+ Contact&lt;span class="heading__anchor"> &lt;a href="#contact">#&lt;/a>&lt;/span>
+&lt;/h3>&lt;p>I’d love to hear from you! Whether you want to discuss a project, have questions, or just want to say hello, feel free to reach out via any of the following methods:&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Email&lt;/strong>: &lt;a href="mailto:youremail@example.com">youremail@example.com&lt;/a>&lt;/li>
+&lt;li>&lt;strong>LinkedIn&lt;/strong>: &lt;a href="https://linkedin.com/in/yourprofile">yourlinkedinprofile&lt;/a>&lt;/li>
+&lt;li>&lt;strong>GitHub&lt;/strong>: &lt;a href="https://github.com/yourusername">yourgithubprofile&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>I look forward to connecting with you!&lt;/p>
+&lt;hr>
+&lt;h3 class="heading" id="address">
+ Address&lt;span class="heading__anchor"> &lt;a href="#address">#&lt;/a>&lt;/span>
+&lt;/h3>&lt;ul>
+&lt;li>123 Your Street, Your City, Country&lt;/li>
+&lt;/ul></description></item></channel></rss>
