@@ -29,6 +29,5 @@ jobs:
         with:
           github_token: ${{ secrets.GH_TOKEN }}  # Use the PAT secret instead of GITHUB_TOKEN
           publish_dir: ./public  # Path to the generated site folder (Hugo's default output folder)
-          branch: gh-pages  # Deploy to the 'main' branch
-          target_branch: gh-pages  # Set target branch to 'main' (this is optional)
+          publish_branch: gh-pages
 
