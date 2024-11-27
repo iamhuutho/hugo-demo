@@ -6,7 +6,7 @@ weight: 10
 
 ## Về Tôi
 
-Chào bạn! Tôi là Tho Nguyen, một nhà phát triển web đam mê xây dựng những trang web đẹp và đáp ứng. Tôi chuyên về các công nghệ frontend như HTML, CSS, JavaScript, và cả phát triển backend với các công cụ như Node.js và Go.
+Chào bạn! Tôi là Tho, một nhà phát triển web đam mê xây dựng những trang web đẹp và đáp ứng. Tôi chuyên về các công nghệ frontend như HTML, CSS, JavaScript, và cả phát triển backend với các công cụ như Node.js và Go.
 
 Trong thời gian rảnh, tôi thích khám phá công nghệ mới, học ngoại ngữ và du lịch. Chào mừng bạn đến với trang web cá nhân của tôi!
 
