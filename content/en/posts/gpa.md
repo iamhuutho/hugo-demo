@@ -5,4 +5,4 @@ weight: 10
 ---
 
 ## GPA
-My GPA is 4.9
+My GPA is 5.0
