@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Contacts on Trang Cá Nhân</title>
+    <link>http://localhost:55686/vi/contacts/</link>
+    <description>Recent content in Contacts on Trang Cá Nhân</description>
+    <generator>Hugo</generator>
+    <language>vi</language>
+    <lastBuildDate>Wed, 27 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:55686/vi/contacts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Liên Hệ</title>
+      <link>http://localhost:55686/vi/contacts/contact/</link>
+      <pubDate>Wed, 27 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:55686/vi/contacts/contact/</guid>
+      <description>&lt;h3 class=&#34;heading&#34; id=&#34;hãy-liên-hệ&#34;&gt;&#xA;  Hãy Liên Hệ&lt;span class=&#34;heading__anchor&#34;&gt; &lt;a href=&#34;#h%c3%a3y-li%c3%aan-h%e1%bb%87&#34;&gt;#&lt;/a&gt;&lt;/span&gt;&#xA;&lt;/h3&gt;&lt;p&gt;Tôi rất mong được nghe từ bạn! Dù bạn muốn thảo luận về một dự án, có câu hỏi, hay chỉ đơn giản là muốn trò chuyện, hãy liên hệ với tôi qua các phương thức sau:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Email&lt;/strong&gt;: &lt;a href=&#34;mailto:youremail@example.com&#34;&gt;youremail@example.com&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;LinkedIn&lt;/strong&gt;: &lt;a href=&#34;https://linkedin.com/in/yourprofile&#34;&gt;yourlinkedinprofile&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;GitHub&lt;/strong&gt;: &lt;a href=&#34;https://github.com/yourusername&#34;&gt;yourgithubprofile&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Tôi rất mong được kết nối với bạn!&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 class=&#34;heading&#34; id=&#34;địa-chỉ&#34;&gt;&#xA;  Địa Chỉ&lt;span class=&#34;heading__anchor&#34;&gt; &lt;a href=&#34;#%c4%91%e1%bb%8ba-ch%e1%bb%89&#34;&gt;#&lt;/a&gt;&lt;/span&gt;&#xA;&lt;/h3&gt;&lt;ul&gt;&#xA;&lt;li&gt;123 Đường Của Bạn, Thành Phố Của Bạn, Quốc Gia&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;</description>
+    </item>
+  </channel>
+</rss>
