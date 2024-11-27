@@ -5,4 +5,4 @@ weight: 10
 ---
 
 ## GPA
-GPA của tôi là 5.0
+GPA của tôi là 5.5

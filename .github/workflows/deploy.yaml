@@ -12,7 +12,9 @@ jobs:
     steps:
       # Step 1: Checkout the repository code
       - name: Checkout code
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
+        with:
+          submodules: recursive
 
       # Step 2: Set up Hugo (use the appropriate Hugo version)
       - name: Set up Hugo
@@ -20,13 +22,13 @@ jobs:
         with:
           hugo-version: '0.139.2'  # Use the appropriate Hugo version
 
-      # # Step 3: Clean up old public folder (ensure there is no leftover content)
-      # - name: Clean up old public folder
-      #   run: rm -rf ./public
+      # Step 3: Clean up old public folder (ensure there is no leftover content)
+      - name: Clean up old public folder
+        run: rm -rf ./public
 
       # Step 4: Build the Hugo site (generate new content)
       - name: Build the Hugo site
-        run: hugo --minify  # Hugo builds the site into the "public/" directory
+        run: hugo --minify
 
       # Step 5: Deploy to GitHub Pages
       - name: Deploy to GitHub Pages
