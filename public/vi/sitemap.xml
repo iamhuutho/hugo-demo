@@ -1,1 +1,41 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url><loc>https://iamhuutho.github.io/hugo-demo/vi/posts/welcome/</loc><lastmod>2024-11-27T00:00:00+00:00</lastmod><xhtml:link rel="alternate" hreflang="en-US" href="https://iamhuutho.github.io/hugo-demo/en/posts/welcome/"/><xhtml:link rel="alternate" hreflang="vi" href="https://iamhuutho.github.io/hugo-demo/vi/posts/welcome/"/></url><url><loc>https://iamhuutho.github.io/hugo-demo/vi/posts/achievement/</loc><lastmod>2024-11-27T00:00:00+00:00</lastmod><xhtml:link rel="alternate" hreflang="en-US" href="https://iamhuutho.github.io/hugo-demo/en/posts/achievement/"/><xhtml:link rel="alternate" hreflang="vi" href="https://iamhuutho.github.io/hugo-demo/vi/posts/achievement/"/></url><url><loc>https://iamhuutho.github.io/hugo-demo/vi/posts/gpa/</loc><lastmod>2024-11-27T00:00:00+00:00</lastmod><xhtml:link rel="alternate" hreflang="en-US" href="https://iamhuutho.github.io/hugo-demo/en/posts/gpa/"/><xhtml:link rel="alternate" hreflang="vi" href="https://iamhuutho.github.io/hugo-demo/vi/posts/gpa/"/></url><url><loc>https://iamhuutho.github.io/hugo-demo/vi/about/</loc><lastmod>2024-11-27T00:00:00+00:00</lastmod><xhtml:link rel="alternate" hreflang="en-US" href="https://iamhuutho.github.io/hugo-demo/en/about/"/><xhtml:link rel="alternate" hreflang="vi" href="https://iamhuutho.github.io/hugo-demo/vi/about/"/></url><url><loc>https://iamhuutho.github.io/hugo-demo/vi/contacts/contact/</loc><lastmod>2024-11-27T00:00:00+00:00</lastmod><xhtml:link rel="alternate" hreflang="en-US" href="https://iamhuutho.github.io/hugo-demo/en/contacts/contact/"/><xhtml:link rel="alternate" hreflang="vi" href="https://iamhuutho.github.io/hugo-demo/vi/contacts/contact/"/></url><url><loc>https://iamhuutho.github.io/hugo-demo/vi/contacts/</loc><lastmod>2024-11-27T00:00:00+00:00</lastmod><xhtml:link rel="alternate" hreflang="en-US" href="https://iamhuutho.github.io/hugo-demo/en/contacts/"/><xhtml:link rel="alternate" hreflang="vi" href="https://iamhuutho.github.io/hugo-demo/vi/contacts/"/></url><url><loc>https://iamhuutho.github.io/hugo-demo/vi/posts/</loc><lastmod>2024-11-27T00:00:00+00:00</lastmod><xhtml:link rel="alternate" hreflang="en-US" href="https://iamhuutho.github.io/hugo-demo/en/posts/"/><xhtml:link rel="alternate" hreflang="vi" href="https://iamhuutho.github.io/hugo-demo/vi/posts/"/></url><url><loc>https://iamhuutho.github.io/hugo-demo/vi/</loc><lastmod>2024-11-27T00:00:00+00:00</lastmod><xhtml:link rel="alternate" hreflang="en-US" href="https://iamhuutho.github.io/hugo-demo/en/"/><xhtml:link rel="alternate" hreflang="vi" href="https://iamhuutho.github.io/hugo-demo/vi/"/></url><url><loc>https://iamhuutho.github.io/hugo-demo/vi/categories/</loc><xhtml:link rel="alternate" hreflang="en-US" href="https://iamhuutho.github.io/hugo-demo/en/categories/"/><xhtml:link rel="alternate" hreflang="vi" href="https://iamhuutho.github.io/hugo-demo/vi/categories/"/></url><url><loc>https://iamhuutho.github.io/hugo-demo/vi/tags/</loc><xhtml:link rel="alternate" hreflang="en-US" href="https://iamhuutho.github.io/hugo-demo/en/tags/"/><xhtml:link rel="alternate" hreflang="vi" href="https://iamhuutho.github.io/hugo-demo/vi/tags/"/></url></urlset>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://localhost:1313/hugo-demo/vi/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/hugo-demo/en/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="http://localhost:1313/hugo-demo/vi/categories/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/hugo-demo/vi/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/hugo-demo/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="http://localhost:1313/hugo-demo/vi/tags/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/hugo-demo/vi/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/hugo-demo/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="http://localhost:1313/hugo-demo/vi/"
+                />
+  </url>
+</urlset>
