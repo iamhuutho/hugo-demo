@@ -13,9 +13,9 @@ outputs:
 
 **Assoc. Prof. Quan Thanh Tho**
 
-Dean, Faculty of Computer Science and Engineering
+Dean, Faculty of Computer Science and Engineering.
 
-Ho Chi Minh City University of Technology
+Ho Chi Minh City University of Technology.
 
 ### About
 
