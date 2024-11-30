@@ -13,3 +13,5 @@ enableGitInfo = false
 [params]
 sections = ["research", "publications", "education", "teaching", "hobbies"]
 profileImage = "img/drtho.jpg"
+url="https://iamhuutho.github.io/hugo-demo/"
+
