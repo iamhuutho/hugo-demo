@@ -2,7 +2,7 @@
 
 # Basic Configuration
 title = "Portfolio"
-baseURL = "https://example.com/"
+baseURL = "https://iamhuutho.github.io/hugo-demo/"
 # theme = "hugo-resume"
 languageCode = "en-us"
 PygmentsCodeFences = true
